@@ -9,10 +9,16 @@ The im2sf2bulbcountdown function converts a binary image into an RGB image by re
 ##
 # OUTPUTS
 ## RGB image composed of the bulbs of Street Fighter 2 countdown
-## __________________________________________________________________________
-## Copyright (C) 2024 Edgar Guevara, PhD
-## CONAHCYT-Universidad Autónoma de San Luis Potosí
-## Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología
-## __________________________________________________________________________
+### __________________________________________________________________________
+### Copyright (C) 2024 Edgar Guevara, PhD
+### CONAHCYT-Universidad Autónoma de San Luis Potosí
+### Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología
+### __________________________________________________________________________
+
+![B/W logo](https://github.com/guevaracodina/sf2_countdown_bulbs/blob/main/SF_logo.png?raw=true)
+# →
+![bulb countdown tile](https://github.com/guevaracodina/sf2_countdown_bulbs/blob/main/SF_logo_ImOut.png?raw=true)
+
+
 
 
