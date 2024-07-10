@@ -14,6 +14,8 @@ The im2sf2bulbcountdown function converts a binary image into an RGB image by re
 ### CONAHCYT-Universidad Autónoma de San Luis Potosí
 ### Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología
 ### __________________________________________________________________________
+[![View Street Fighter countdown bulbs on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/169403-street-fighter-countdown-bulbs)
+
 
 ![Street Fighter 2 bulbs countdown](https://github.com/guevaracodina/sf2_countdown_bulbs/blob/main/SF_logo_demo.png?raw=true)
 
